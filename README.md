@@ -1,7 +1,6 @@
 \*\*Steps Involved to Run the Task Management Web App\*\*
 
-IDE used : Ms Visual Studio Code GitHub Link:
-https://github.com/A-rvind/Task_Manage_Ve3/
+IDE used : Ms Visual Studio Code.
 
 Languauge used : Python to built the API Website pages : React.JS
 Database : SQL Alchemy and SQLite
@@ -78,11 +77,12 @@ To delete any task, simply click on the delete button (red button)
 Following are image represented:
 
 
-![task add](https://github.com/user-attachments/assets/102e5d42-cde2-48ad-ab78-2dad873b5ca5)
+![task 1](https://github.com/KaranMokashi/Task-Management-Web-Application/blob/main/karan1.jpeg)
 
-![task 3 edit](https://github.com/user-attachments/assets/6d0a4c07-931b-4ce8-bfa5-3105305e6ca0)
+![task 2](https://github.com/KaranMokashi/Task-Management-Web-Application/blob/main/karan2.jpeg)
 
-![task4 update](https://github.com/user-attachments/assets/0d28e116-47a5-49ee-80ad-b79c4f017ae3)
+![task 3](https://github.com/KaranMokashi/Task-Management-Web-Application/blob/main/karan3.jpeg)
 
+![task 4](https://github.com/KaranMokashi/Task-Management-Web-Application/blob/main/karan4.jpeg)
 
 
